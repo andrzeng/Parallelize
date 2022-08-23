@@ -1,3 +1,7 @@
+'''
+Created by Andrew Zeng while at the NeuralABC lab, August 2022
+'''
+
 import multiprocessing
 from multiprocessing import Pool
 import numpy as np
